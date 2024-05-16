@@ -1,3 +1,6 @@
-Instruction
+### Ejercion Taller GIT
 
-Esta es otra modificacion
+- Aprenderas muchas cosas
+- Aprenderas muchas cosas
+- Aprenderas muchas cosas
+- Aprenderas muchas cosas
